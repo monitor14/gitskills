@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 # gitskills
-=======
-#gitskills
->>>>>>> dev
 
 2019/6/25
 
